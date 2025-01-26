@@ -1,4 +1,5 @@
 School Management System:
+
 This project is a School Management System built using Django, Django Rest Framework, and MongoDB.
 The system allows administrators to manage students, teachers, schools, and other school-related data.
 
